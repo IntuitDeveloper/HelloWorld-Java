@@ -1,3 +1,5 @@
+[![Sample Banner](views/Sample.png)][ss1]
+
 # HelloWorld-Java
 
 The [Intuit Developer team](https://developer.intuit.com) has written this starter app in Java using OAuth2.0 to provide working examples of OAuth 2.0 concepts, and how to integrate with Intuit endpoints. 
@@ -57,3 +59,5 @@ It is important to ensure that the scopes your are requesting match the scopes a
 
 ## Storing the tokens
 This app stores all the tokens and user information in the session. For production ready app, tokens should be encrypted and stored in a database.
+
+[ss1]: https://help.developer.intuit.com/s/samplefeedback?cid=9010&repoName=HelloWorld-Java
