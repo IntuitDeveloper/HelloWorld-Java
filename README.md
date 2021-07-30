@@ -1,4 +1,4 @@
-[![Sample Banner](views/Sample.png)][ss1]
+[![Rate your Sample](views/Ratesample.png)][ss1][![Yes](views/Thumbup.png)][ss2][![No](views/Thumbdown.png)][ss3]
 
 # HelloWorld-Java
 
@@ -60,4 +60,6 @@ It is important to ensure that the scopes your are requesting match the scopes a
 ## Storing the tokens
 This app stores all the tokens and user information in the session. For production ready app, tokens should be encrypted and stored in a database.
 
-[ss1]: https://help.developer.intuit.com/s/samplefeedback?cid=9010&repoName=HelloWorld-Java
+[ss1]: #
+[ss2]: https://customersurveys.intuit.com/jfe/form/SV_9LWgJBcyy3NAwHc?check=Yes&checkpoint=HelloWorld-Java&pageUrl=github
+[ss3]: https://customersurveys.intuit.com/jfe/form/SV_9LWgJBcyy3NAwHc?check=No&checkpoint=HelloWorld-Java&pageUrl=github
